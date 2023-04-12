@@ -28,24 +28,24 @@ pip install gradio
  <img src="https://github.com/HuseyinAts/Acikhack2023_TrendMiner/blob/main/text%20mining%20grafik.jpg" width="auto">
  
  
- # Veri Seti incelendi. Kısa metinlerden oluştuğu gözlemlendi.
-# Kısa metin clustering üzerine bilimsel makaleler tarandı.
-# Yayınlanan makalede Short Text Clustering modellerinin performans verileri incelendi.
-# Kısa metinlerde performansı en yüksek olan Soft Cluster Assignment for Text Clustering - Auto Encoder yöntemi üzerine modelimizi kurup performans verilerini kaydettik.
+  Veri Seti incelendi. Kısa metinlerden oluştuğu gözlemlendi.
+ Kısa metin clustering üzerine bilimsel makaleler tarandı.
+ Yayınlanan makalede Short Text Clustering modellerinin performans verileri incelendi.
+ Kısa metinlerde performansı en yüksek olan Soft Cluster Assignment for Text Clustering - Auto Encoder yöntemi üzerine modelimizi kurup performans verilerini kaydettik.
 
-# Yine performansı yüksek olan Bert üzerine modelimizi kurup performans verilerini kaydettik.
+ Yine performansı yüksek olan Bert üzerine modelimizi kurup performans verilerini kaydettik.
 
-# Türkçe metinler üzerinde fine-tune edilmiş Bert modelinin daha yüksek performans gösterdiği için modelimizi Bert üzerine kurduk.
+ Türkçe metinler üzerinde fine-tune edilmiş Bert modelinin daha yüksek performans gösterdiği için modelimizi Bert üzerine kurduk.
 
-# Kısa metinler üzerinde clustering işlemi için güncel bilimsel makaleleri taradığımızda öne çıkan yaklaşımları temel alarak modellerimizi kurup performanslarını kıyasladık.
+ Kısa metinler üzerinde clustering işlemi için güncel bilimsel makaleleri taradığımızda öne çıkan yaklaşımları temel alarak modellerimizi kurup performanslarını kıyasladık.
 
-# En başarılı yöntem olarak geçen Soft Cluster Assignment for Text Clustering - Auto Encoder yönteminden istediğimiz performansı alamadık.
+ En başarılı yöntem olarak geçen Soft Cluster Assignment for Text Clustering - Auto Encoder yönteminden istediğimiz performansı alamadık.
 
-# Bunda Türkçe’nin sondan eklemeli bir dil oluşunun , alfabede ki bazı harflerin İngilizce de olmamasının , veri setinin az olmasının ve bazı deyim ve atasözlerinin model tarafından algılanamamasından kaynaklandığını düşünüyoruz.
+ Bunda Türkçe’nin sondan eklemeli bir dil oluşunun , alfabede ki bazı harflerin İngilizce de olmamasının , veri setinin az olmasının ve bazı deyim ve atasözlerinin model tarafından algılanamamasından kaynaklandığını düşünüyoruz.
 
-# Diğerlerine göre daha iyi performans gösteren  https://huggingface.co/dbmdz/bert-base-turkish-cased modelini veri setimizle fine-tune edip hazırladık.
+ Diğerlerine göre daha iyi performans gösteren  https://huggingface.co/dbmdz/bert-base-turkish-cased modelini veri setimizle fine-tune edip hazırladık.
 
-#  Veri setimizle fine tüne ettiğimiz modelin hugginface modelinden daha iyi performans sağladığını gözlemledik
+  Veri setimizle fine tüne ettiğimiz modelin hugginface modelinden daha iyi performans sağladığını gözlemledik
 
 ## Proje İş Akışı 
 
@@ -73,6 +73,8 @@ pip install gradio
 # Feature Selection (Özellik belirleme)’de text değerleri ve etiket değerleri (INSULT,PROFANITY VB) seçilir
 
 # Oluşturduğumuz model aracılığıyla önce önce classification(sınıflandırma) daha sonra clustering yapılır.
+
+
 ![image](https://user-images.githubusercontent.com/72999029/231423900-0b4f7844-18d4-4896-897c-8f323e58e466.png)
 
  
