@@ -21,6 +21,10 @@ pip install gradio
 # Veri Setinin Ön İşleme Basamakları
  <img src="https://github.com/HuseyinAts/Acikhack2023_TrendMiner/blob/main/short%20text%20represantion%20taxonomies.jpg" width="auto">
  
+ 
+ # Veri Setinin Ön İşleme Basamakları
+ 
+ 
  <img src="https://github.com/HuseyinAts/Acikhack2023_TrendMiner/blob/main/text%20mining%20grafik.jpg" width="auto">
  
  <img src="https://github.com/HuseyinAts/Acikhack2023_TrendMiner/blob/main/pre%20processing.jpg" width="auto">
