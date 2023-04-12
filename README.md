@@ -78,4 +78,5 @@ pip install gradio
 ![image](https://user-images.githubusercontent.com/72999029/231423900-0b4f7844-18d4-4896-897c-8f323e58e466.png)
 
  
- 
+ Program Örnek Çalışma Videosu büyük boyutlu olduğu için buraya yüklenememiştir. https://drive.google.com/file/d/1XvFApcxOozgnQ_QyUDGYnR1ih9rrd73Q/view?usp=sharing ve  
+ https://drive.google.com/file/d/1ziO_eeNKFmmtnwG77vOVXGVnPq6Iq1UK/view?usp=sharing linklerinden ulaşabilirsiniz
