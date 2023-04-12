@@ -48,6 +48,7 @@ pip install gradio
 #  Veri setimizle fine tüne ettiğimiz modelin hugginface modelinden daha iyi performans sağladığını gözlemledik
 
 ## Proje İş Akışı 
+
 ![image](https://user-images.githubusercontent.com/72999029/231423545-5a6247b3-de5a-4c5e-88d8-f86d371f3715.png)
 
 
@@ -59,6 +60,7 @@ pip install gradio
  
  <img src="https://github.com/HuseyinAts/Acikhack2023_TrendMiner/blob/main/pre%20processing.jpg" width="auto">
  
+ ## Çalışma Basamaklarının Açıklaması 
  
 # Dijital ortamda yazıların genelde resmi yazı formuna uymadığı için önce cümleler ve kelimeler için normal formuna getirme olan normalizasyon yaptık.
 
