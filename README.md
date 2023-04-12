@@ -15,10 +15,10 @@ pip install gradio
  !python -m pip install evaluate
  from fast_ml.model_development import train_valid_test_split
  
- ## Model Oluşturma
+ ### Model Oluşturma
  
  
-# Veri Setinin Ön İşleme Basamakları
+
  <img src="https://github.com/HuseyinAts/Acikhack2023_TrendMiner/blob/main/short%20text%20represantion%20taxonomies.jpg" width="auto">
  
  
