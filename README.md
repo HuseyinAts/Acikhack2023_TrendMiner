@@ -1,4 +1,4 @@
-**## Doğal Dil İşleme Yöntemiyle Aşağılayıcı Söylem Tespiti **
+### Doğal Dil İşleme Yöntemiyle Aşağılayıcı Söylem Tespiti 
 ## Teknofest 2023
 $${\color{blue}TrendMiner Takımı }$$
 
