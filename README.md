@@ -62,17 +62,17 @@ pip install gradio
  
  ## Çalışma Basamaklarının Açıklaması 
  
-# Dijital ortamda yazıların genelde resmi yazı formuna uymadığı için önce cümleler ve kelimeler için normal formuna getirme olan normalizasyon yaptık.
+ Dijital ortamda yazıların genelde resmi yazı formuna uymadığı için önce cümleler ve kelimeler için normal formuna getirme olan normalizasyon yaptık.
 
-# Bu kelimeler sayısal değerlere çevrilme olan tokenizasyonu Bert Model yapılıyor.
+ Bu kelimeler sayısal değerlere çevrilme olan tokenizasyonu Bert Model yapılıyor.
 
-# Çıkarıldığı zaman anlam bütünlüğünü bozmayan dolgu kelimeleri (stop words)’ler çıkarılır.
+ Çıkarıldığı zaman anlam bütünlüğünü bozmayan dolgu kelimeleri (stop words)’ler çıkarılır.
 
-# Kelimelerin köklerinin bulunması (lematization)
+ Kelimelerin köklerinin bulunması (lematization)
 
-# Feature Selection (Özellik belirleme)’de text değerleri ve etiket değerleri (INSULT,PROFANITY VB) seçilir
+ Feature Selection (Özellik belirleme)’de text değerleri ve etiket değerleri (INSULT,PROFANITY VB) seçilir
 
-# Oluşturduğumuz model aracılığıyla önce önce classification(sınıflandırma) daha sonra clustering yapılır.
+ Oluşturduğumuz model aracılığıyla önce önce classification(sınıflandırma) daha sonra clustering yapılır.
 
 
 ![image](https://user-images.githubusercontent.com/72999029/231423900-0b4f7844-18d4-4896-897c-8f323e58e466.png)
