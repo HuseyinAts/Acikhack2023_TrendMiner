@@ -73,6 +73,8 @@ pip install gradio
  Feature Selection (Özellik belirleme)’de text değerleri ve etiket değerleri (INSULT,PROFANITY VB) seçilir
 
  Oluşturduğumuz model aracılığıyla önce önce classification(sınıflandırma) daha sonra clustering yapılır.
+ 
+ #Gradio kodları gradio_calisan_son.ipynb 'dır
 
 
 ![image](https://user-images.githubusercontent.com/72999029/231423900-0b4f7844-18d4-4896-897c-8f323e58e466.png)
