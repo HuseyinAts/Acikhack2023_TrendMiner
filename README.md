@@ -15,6 +15,8 @@ pip install gradio
  !python -m pip install evaluate
  from fast_ml.model_development import train_valid_test_split
  
+ # Gradio kodları gradio_calisan_son.ipynb 'dır
+ 
  ### Model Oluşturma
  
  
