@@ -1,5 +1,5 @@
 ### Doğal Dil İşleme Yöntemiyle Aşağılayıcı Söylem Tespiti 
-## Teknofest 2023
+## Teknofest 2023 #acikhack2023
 $${\color{blue}TrendMiner Takımı }$$
 
 Modeli Kullanmak Yüklenmesi Gereken Bağımlılıklar
